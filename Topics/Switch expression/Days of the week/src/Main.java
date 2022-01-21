@@ -11,7 +11,6 @@ class Main {
             case WEDNESDAY -> 9;
             case THURSDAY, SATURDAY -> 8;
             case MONDAY, FRIDAY, SUNDAY -> 6;
-            default -> throw new IllegalStateException("Invalid day: " + day);
         };
 
         // Put switch expression here
