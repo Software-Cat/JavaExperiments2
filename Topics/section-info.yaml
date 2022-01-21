@@ -4,3 +4,4 @@ content:
   - Comparable
   - Threads as objects
   - Custom threads
+  - States of a thread

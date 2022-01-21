@@ -28,6 +28,12 @@
             <option value="$PROJECT_DIR$/Topics/Custom threads/The difference between start and run" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Writing a thread for printing numbers" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/A thread in NEW state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Finding and starting a thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/How to jump to the TIMED_WAITING state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Print name of TERMINATED thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/The current state of a thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Theory" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Counting threads" />
