@@ -13,6 +13,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Author sign annotation" />
+            <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Printing arguments annotation" />
+            <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Theory" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
             <option value="$PROJECT_DIR$/util" />
