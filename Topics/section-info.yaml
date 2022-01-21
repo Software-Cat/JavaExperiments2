@@ -5,3 +5,4 @@ content:
   - Threads as objects
   - Custom threads
   - States of a thread
+  - Thread management
