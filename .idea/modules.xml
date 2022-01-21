@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaExperiments2.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaExperiments2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Days of the week/JavaExperiments2.Topics-Switch_expression-Days_of_the_week.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Days of the week/JavaExperiments2.Topics-Switch_expression-Days_of_the_week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Days of the week/JavaExperiments2.Topics-Switch_expression-Days_of_the_week.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Days of the week/JavaExperiments2.Topics-Switch_expression-Days_of_the_week.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Days of the week/JavaExperiments2.Topics-Switch_expression-Days_of_the_week.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Days of the week/JavaExperiments2.Topics-Switch_expression-Days_of_the_week.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Theory/JavaExperiments2.Topics-Switch_expression-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Theory/JavaExperiments2.Topics-Switch_expression-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Theory/JavaExperiments2.Topics-Switch_expression-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Theory/JavaExperiments2.Topics-Switch_expression-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Theory/JavaExperiments2.Topics-Switch_expression-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Switch expression/Theory/JavaExperiments2.Topics-Switch_expression-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaExperiments2.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaExperiments2.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaExperiments2.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaExperiments2.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaExperiments2.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaExperiments2.util.test.iml" />
+    </modules>
+  </component>
+</project>
