@@ -1,4 +1,11 @@
-type: theory
+type: choice
+is_multiple_choice: true
+options:
+  - text: a.compareTo(b) &gt; 0
+  - text: a.compareTo(b) &lt; 0
+  - text: a.compareTo(b) == 0
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
 files:
   - name: src/Task.java
     visible: true
@@ -11,10 +18,6 @@ files:
         }
       }
     learner_created: false
-  - name: src/TestClass.java
-    visible: true
-    learner_created: true
-feedback_link: https://hyperskill.org/learn/step/12806#comment
+feedback_link: https://hyperskill.org/learn/step/14457#comment
 status: Solved
 record: -1
-post_submission_on_open: true

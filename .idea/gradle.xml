@@ -9,10 +9,14 @@
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="D:/ProgramData/Chocolatey/lib/gradle/tools/gradle-7.3" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="Oracle JDK 17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Natural ordering" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Author sign annotation" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Printing arguments annotation" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Theory" />

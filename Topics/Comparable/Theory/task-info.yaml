@@ -11,10 +11,7 @@ files:
         }
       }
     learner_created: false
-  - name: src/TestClass.java
-    visible: true
-    learner_created: true
-feedback_link: https://hyperskill.org/learn/step/12806#comment
+feedback_link: https://hyperskill.org/learn/step/14456#comment
 status: Solved
 record: -1
 post_submission_on_open: true
