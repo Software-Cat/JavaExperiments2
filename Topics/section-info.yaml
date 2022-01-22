@@ -11,3 +11,4 @@ content:
   - Callable and Future
   - Timers
   - Executors
+  - Concurrent queues

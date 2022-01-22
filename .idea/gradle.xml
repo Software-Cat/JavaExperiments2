@@ -24,6 +24,11 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Natural ordering" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Concurrent queues/Atomic operations" />
+            <option value="$PROJECT_DIR$/Topics/Concurrent queues/Last element" />
+            <option value="$PROJECT_DIR$/Topics/Concurrent queues/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Concurrent queues/The better cases to use it" />
+            <option value="$PROJECT_DIR$/Topics/Concurrent queues/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Author sign annotation" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Printing arguments annotation" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Theory" />
