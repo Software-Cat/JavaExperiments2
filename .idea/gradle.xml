@@ -12,6 +12,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Create a callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Execute Callable objects" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Get the result" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many Callable objects are there" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many tasks are finished" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Submitting Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Natural ordering" />
@@ -65,6 +72,8 @@
             <option value="$PROJECT_DIR$/Topics/Threads as objects/The implementation of threads" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Thread name" />
+            <option value="$PROJECT_DIR$/Topics/Timers/Creating a TimerTask" />
+            <option value="$PROJECT_DIR$/Topics/Timers/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

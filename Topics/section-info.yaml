@@ -8,3 +8,5 @@ content:
   - Thread management
   - Thread synchronization
   - Interruptions
+  - Callable and Future
+  - Timers
