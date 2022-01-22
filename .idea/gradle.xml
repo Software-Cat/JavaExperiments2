@@ -24,6 +24,10 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Natural ordering" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Multiple fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Odd and even" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
             <option value="$PROJECT_DIR$/Topics/Concurrent queues/Atomic operations" />
             <option value="$PROJECT_DIR$/Topics/Concurrent queues/Last element" />
             <option value="$PROJECT_DIR$/Topics/Concurrent queues/Statements" />

@@ -1,5 +1,6 @@
-import java.util.*;
-import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.Queue;
 
 class QueueUtils {
 

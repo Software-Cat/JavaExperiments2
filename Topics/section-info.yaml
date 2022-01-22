@@ -12,3 +12,4 @@ content:
   - Timers
   - Executors
   - Concurrent queues
+  - Comparator
