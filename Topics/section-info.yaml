@@ -6,3 +6,5 @@ content:
   - Custom threads
   - States of a thread
   - Thread management
+  - Thread synchronization
+  - Interruptions

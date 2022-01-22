@@ -1,23 +1,23 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: anotherThread.join();
-  - text: anotherThread.join(2000);
-  - text: Thread.sleep(2000);
+- text: anotherThread.join();
+- text: anotherThread.join(2000);
+- text: Thread.sleep(2000);
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
-  - name: src/Task.java
-    visible: true
-    text: |
-      // You can experiment here, it won’t be checked
-      
-      public class Task {
-        public static void main(String[] args) {
-          // put your code here
-        }
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
       }
-    learner_created: false
+    }
+  learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4884#comment
 status: Solved
 record: -1

@@ -9,7 +9,6 @@
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="D:/ProgramData/Chocolatey/lib/gradle/tools/gradle-7.3" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -28,6 +27,11 @@
             <option value="$PROJECT_DIR$/Topics/Custom threads/The difference between start and run" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Writing a thread for printing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/It was interrupted" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/What does the invocation cause" />
             <option value="$PROJECT_DIR$/Topics/States of a thread/A thread in NEW state" />
             <option value="$PROJECT_DIR$/Topics/States of a thread/Finding and starting a thread" />
             <option value="$PROJECT_DIR$/Topics/States of a thread/How to jump to the TIMED_WAITING state" />
@@ -44,6 +48,16 @@
             <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
             <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Waiting for a thread" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Countdown counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Counting number of instances" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Method inside the synchronized block" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Possible outputs" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Synchronized blocks" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Synchronized keyword" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread-safe account" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Threads executing methods" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Counting threads" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting a current thread" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
