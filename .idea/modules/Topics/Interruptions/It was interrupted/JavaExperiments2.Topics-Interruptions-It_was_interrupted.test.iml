@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":Topics-Interruptions-It_was_interrupted:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Interruptions/It was interrupted" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="JavaExperiments2" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Interruptions/It was interrupted/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Interruptions/It was interrupted/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Interruptions/It was interrupted/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Interruptions/It was interrupted/test" />

@@ -1,24 +1,24 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: All combinations of standard methods of this collection are atomic.
-  - text: Any user-defined method which performs an operation with this collection is
-      atomic.
-  - text: Each non bulk standard method of this collection is atomic.
+- text: All combinations of standard methods of this collection are atomic.
+- text: Any user-defined method which performs an operation with this collection is
+    atomic.
+- text: Each non bulk standard method of this collection is atomic.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
-  - name: src/Task.java
-    visible: true
-    text: |
-      // You can experiment here, it won’t be checked
-      
-      public class Task {
-        public static void main(String[] args) {
-          // put your code here
-        }
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
       }
-    learner_created: false
+    }
+  learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7702#comment
 status: Solved
 record: -1

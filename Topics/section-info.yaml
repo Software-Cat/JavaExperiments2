@@ -1,15 +1,15 @@
 content:
-  - Switch expression
-  - Custom annotations and types of annotations
-  - Comparable
-  - Threads as objects
-  - Custom threads
-  - States of a thread
-  - Thread management
-  - Thread synchronization
-  - Interruptions
-  - Callable and Future
-  - Timers
-  - Executors
-  - Concurrent queues
-  - Comparator
+- Switch expression
+- Custom annotations and types of annotations
+- Comparable
+- Threads as objects
+- Custom threads
+- States of a thread
+- Thread management
+- Thread synchronization
+- Interruptions
+- Callable and Future
+- Timers
+- Executors
+- Concurrent queues
+- Comparator

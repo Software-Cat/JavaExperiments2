@@ -1,9 +1,9 @@
 content:
-  - Theory
-  - The implementation of threads
-  - Getting a current thread
-  - Find min and max priorities
-  - Getting current thread info
-  - Thread name
-  - Counting threads
-  - Is thread daemon
+- Theory
+- The implementation of threads
+- Getting a current thread
+- Find min and max priorities
+- Getting current thread info
+- Thread name
+- Counting threads
+- Is thread daemon

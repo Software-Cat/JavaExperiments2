@@ -1,25 +1,25 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: When we need a queue to access it from different classes in a single-threaded
-      program.
-  - text: When we need to speed up our single-threaded program.
-  - text: When one thread needs a task queue.
-  - text: When multiple threads need some kind of communication with messages.
+- text: When we need a queue to access it from different classes in a single-threaded
+    program.
+- text: When we need to speed up our single-threaded program.
+- text: When one thread needs a task queue.
+- text: When multiple threads need some kind of communication with messages.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
-  - name: src/Task.java
-    visible: true
-    text: |
-      // You can experiment here, it won’t be checked
-      
-      public class Task {
-        public static void main(String[] args) {
-          // put your code here
-        }
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
       }
-    learner_created: false
+    }
+  learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7703#comment
 status: Solved
 record: -1

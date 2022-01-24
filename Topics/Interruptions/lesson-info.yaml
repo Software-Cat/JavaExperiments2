@@ -1,6 +1,6 @@
 content:
-  - Theory
-  - What does the invocation cause
-  - It was interrupted
-  - Interrupting a thread
-  - Handling interruptions
+- Theory
+- What does the invocation cause
+- It was interrupted
+- Interrupting a thread
+- Handling interruptions

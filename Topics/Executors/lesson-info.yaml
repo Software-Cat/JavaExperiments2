@@ -1,8 +1,8 @@
 content:
-  - Theory
-  - The order of lines in output
-  - Supplying a task
-  - Messaging
-  - Check whether a number is prime
-  - Limit shutdown time
-  - Asynchronous email sending
+- Theory
+- The order of lines in output
+- Supplying a task
+- Messaging
+- Check whether a number is prime
+- Limit shutdown time
+- Asynchronous email sending

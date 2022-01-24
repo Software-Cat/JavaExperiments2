@@ -1,23 +1,23 @@
 type: choice
 is_multiple_choice: true
 options:
-  - text: It is a thread-safe collection
-  - text: It works according to the LIFE principle
-  - text: It does not throw ConcurrentModificationException
+- text: It is a thread-safe collection
+- text: It works according to the LIFE principle
+- text: It does not throw ConcurrentModificationException
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
-  - name: src/Task.java
-    visible: true
-    text: |
-      // You can experiment here, it won’t be checked
-      
-      public class Task {
-        public static void main(String[] args) {
-          // put your code here
-        }
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
       }
-    learner_created: false
+    }
+  learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7701#comment
 status: Solved
 record: -1

@@ -1,11 +1,11 @@
 content:
-  - Theory
-  - Synchronized keyword
-  - Method inside the synchronized block
-  - Multithreaded counter
-  - Countdown counter
-  - Counting number of instances
-  - Possible outputs
-  - Synchronized blocks
-  - Threads executing methods
-  - Thread-safe account
+- Theory
+- Synchronized keyword
+- Method inside the synchronized block
+- Multithreaded counter
+- Countdown counter
+- Counting number of instances
+- Possible outputs
+- Synchronized blocks
+- Threads executing methods
+- Thread-safe account
