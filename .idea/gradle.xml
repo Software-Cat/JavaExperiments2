@@ -9,6 +9,7 @@
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="D:/ProgramData/Chocolatey/lib/gradle/tools/gradle-7.3" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -35,6 +36,10 @@
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Author sign annotation" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Printing arguments annotation" />
             <option value="$PROJECT_DIR$/Topics/Custom annotations and types of annotations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Checked exception with constructor" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Custom exceptions features" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Square class" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Multiple threads" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Possible order of the output strings" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
