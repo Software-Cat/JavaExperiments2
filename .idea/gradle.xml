@@ -94,6 +94,10 @@
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Thread name" />
             <option value="$PROJECT_DIR$/Topics/Timers/Creating a TimerTask" />
             <option value="$PROJECT_DIR$/Topics/Timers/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Failed assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Test driven development" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
